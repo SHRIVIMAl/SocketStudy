@@ -82,7 +82,8 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 
 ## Output :
-![EXP A1](https://github.com/user-attachments/assets/ab7fd8b2-632f-4ae9-98ea-a6b2e63cc7cc)
+!
+![EXP A1](https://github.com/user-attachments/assets/4bb1d0fd-a23e-4e05-9476-f4cdd9614b33)
 
 
 ## Result:
